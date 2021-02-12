@@ -1,1 +1,4 @@
-# aplicaciones-ofimaticas-locales-y-en-linea
+jb# aplicaciones-ofimaticas-locales-y-en-linea
+Ofimática (acrónimo de oficina y de informática), a veces también llamado burótica, ,1​ designa al conjunto de técnicas, aplicaciones y herramientas informáticas que se utilizan en funciones de oficina para optimizar, automatizar, mejorar tareas y procedimientos relacionados. Las herramientas ofimáticas permiten idear, crear, manipular, transmitir o almacenar la información necesaria en una oficina.
+
+Comenzó a desarrollarse en la década de los 70, con la masificación de los equipos de oficina que comienzan a incluir microprocesadores, dejándose de usar métodos y herramientas por otras más modernas.Comenzó a desarrollarse en la década de los 70, con la masificación de los equipos de oficina que comienzan a incluir microprocesadores, dejándose de usar métodos y herramientas por otras más modernas.
